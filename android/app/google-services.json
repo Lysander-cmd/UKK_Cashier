@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136699864450",
+    "project_id": "ukkcashier-581d6",
+    "storage_bucket": "ukkcashier-581d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136699864450:android:1336c0b681750ff4a3db9b",
+        "android_client_info": {
+          "package_name": "com.ukk.cashier.ukk_cashier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136699864450-u2g4qfrotn6i18m110mup1efasoau446.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1P6Dp7lTshirgNDCCkrOLN8UdAiFYyCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136699864450-u2g4qfrotn6i18m110mup1efasoau446.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
