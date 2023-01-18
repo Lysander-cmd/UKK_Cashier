@@ -3,19 +3,19 @@ import 'package:flutter/material.dart';
 
 import 'package:ukk_cashier/src/login/login.dart';
 
-class Teacher extends StatefulWidget {
-  const Teacher({super.key});
+class Kasir extends StatefulWidget {
+  const Kasir({super.key});
 
   @override
-  State<Teacher> createState() => _TeacherState();
+  State<Kasir> createState() => _KasirState();
 }
 
-class _TeacherState extends State<Teacher> {
+class _KasirState extends State<Kasir> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Teacher"),
+        title: Text("Kasir"),
         actions: [
           IconButton(
             onPressed: () {

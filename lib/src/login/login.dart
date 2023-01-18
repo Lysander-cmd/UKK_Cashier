@@ -1,8 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:ukk_cashier/src/home/student.dart';
-import 'package:ukk_cashier/src/home/teacher.dart';
+import 'package:ukk_cashier/src/home/admin.dart';
+import 'package:ukk_cashier/src/home/kasir.dart';
+import 'package:ukk_cashier/src/home/manajer.dart';
 import 'register.dart';
 
 
